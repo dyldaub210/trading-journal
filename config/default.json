@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@tradingjournal-zohe1.mongodb.net/TradingJournal?retryWrites=true&w=majority",
+    "jwtToken": "secrettoken",
+    "cryptKey": "secretencryption"
+}

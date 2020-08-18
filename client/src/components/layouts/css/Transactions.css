@@ -1,0 +1,60 @@
+.journal-body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.journal-navigation {
+    margin-top: 70px;
+}
+
+.add-transaction {
+    background-color: #80cbc4 !important;
+}
+
+.table-container{
+    margin-bottom: 50px;
+}
+
+.table-head {
+    font-weight: bold !important;
+}
+
+.table-icon {
+    color: #80cbc4 !important;
+}
+
+.add-transaction-button{
+    background-color: #80cbc4 !important;
+    position: fixed !important;
+    bottom: 30px !important;
+    right: 30px !important;
+}
+
+.transaction-table-loader {
+    color: #80cbc4 !important;
+    margin: 20px auto;
+}
+
+.transaction-table-placeholder {
+    margin: 20px auto !important;
+}
+
+.negative-transaction {
+    color: #f50057 !important;
+}
+
+.positive-transaction {
+    color: #80cbc4 !important;
+}
+
+.delete-icon {
+    color: #f50057 !important;
+}
+
+.edit-icon {
+    color: #1e88e5 !important;
+}
+
+.info-icon { 
+    color: #80cbc4 !important;
+}

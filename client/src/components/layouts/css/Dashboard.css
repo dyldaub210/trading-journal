@@ -1,0 +1,20 @@
+.dashboard-body {
+    margin-top: 50px;
+}
+
+.welcome {
+    font-size: 20px !important;
+    margin-bottom: 50px !important;
+}
+
+.card-image {
+    height: 150px;
+}
+
+.dashboard-links {
+    text-decoration: none;
+}
+
+.module-description {
+    color: #80cbc4 !important;
+}

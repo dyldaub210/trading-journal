@@ -1,0 +1,24 @@
+.submit-add-transaction-button {
+    background-color: #80cbc4 !important;
+}
+
+.text-field-modal {
+    width: 200px !important;
+    margin-bottom: 10px !important;
+}
+
+.negative-transaction {
+    color: #f50057 !important;
+}
+
+.positive-transaction {
+    color: #80cbc4 !important;
+}
+
+.add-detail {
+    font-weight: 500 !important;
+}
+
+.date-field {
+    width: 200px !important;
+}

@@ -1,0 +1,31 @@
+.container-box {
+    margin: 200px auto;
+    max-width: 500px;
+}
+
+.title {
+    font-size: 40px !important;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.register-footer {
+    margin-top: 20px;
+}
+
+.register-button {
+    background-color: #80cbc4 !important;
+    margin-top: 50px !important;
+}
+
+.register-link {
+    text-decoration: none;
+    color: #4db6ac !important;
+}
+
+.register-image {
+    background-size: contain !important;
+}
+

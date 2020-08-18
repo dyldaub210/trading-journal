@@ -1,0 +1,24 @@
+.edit-transaction-button {
+    background-color: #1e88e5 !important;
+}
+
+.text-field-modal {
+    width: 200px !important;
+    margin-bottom: 10px !important;
+}
+
+.negative-transaction {
+    color: #f50057 !important;
+}
+
+.positive-transaction {
+    color: #80cbc4 !important;
+}
+
+.edit-detail {
+    font-weight: 500 !important;
+}
+
+.date-field {
+    width: 200px !important;
+}

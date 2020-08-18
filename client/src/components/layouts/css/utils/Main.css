@@ -1,0 +1,16 @@
+.breadcrumb-active {
+    color: #80cbc4;
+}
+
+.breadcrumb-link, .breadcrumb-link:visited {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+body {
+    margin: 0px !important;
+}
+
+.route-box {
+    margin-top: 90px !important;
+}

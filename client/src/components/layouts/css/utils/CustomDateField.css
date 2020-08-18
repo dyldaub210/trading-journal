@@ -1,0 +1,12 @@
+.MuiPickersDay-daySelected, .MuiPickersToolbar-toolbar {
+    background-color: #80cbc4 !important
+}
+
+.MuiButton-textPrimary, .MuiTypography-colorPrimary {
+    color: #80cbc4 !important
+}
+
+.MuiPickersDay-current {
+    color: inherit;
+}
+

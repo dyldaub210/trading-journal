@@ -1,0 +1,31 @@
+.navigation-bar {
+    background-color: #80cbc4 !important;
+    color: black !important;
+}
+
+.navbar-box {
+    top: 0 !important;
+    left: 0 !important;
+}
+
+.navbar-image {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.navigation-title {
+    text-decoration: none;
+    color: black !important;
+    
+}
+
+.navigation-subTitle{
+    font-size: 20px !important;
+}
+
+.username {
+    font-size: 15px !important;
+    margin-right: 10px !important;
+}
+

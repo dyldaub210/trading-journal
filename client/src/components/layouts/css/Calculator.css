@@ -1,0 +1,45 @@
+.calculator-body {
+    margin-top: 50px;
+    font-size: 10px !important;
+}
+
+.buy, .sell, .total{
+    font-size: 20px !important;
+}
+
+.buy {
+    color: #80cbc4;
+}
+
+.sell {
+    color: #f50057;
+}
+
+.total{ 
+    color: #1e88e5;
+}
+
+.text-field {
+    margin-right: 20px !important
+}
+
+.subtitle1 {
+    color: inherit !important;
+}
+
+.paper-container {
+    padding: 20px;
+}
+
+.transaction-label {
+    font-weight: 700 !important;
+    font-size: 18px !important;
+}
+
+.positive-percentage {
+    color: #80cbc4;
+}
+
+.negative-percentage {
+    color: #f50057;
+}
